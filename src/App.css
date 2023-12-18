@@ -1,0 +1,6 @@
+.hero-wrapper{
+    background-image: url(./assets/Hero2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}

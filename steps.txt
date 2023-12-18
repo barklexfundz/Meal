@@ -1,0 +1,5 @@
+clean up our basic projects
+installing neccesary packages
+    1. bootstrap
+    2
+    
